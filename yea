@@ -1,5 +1,5 @@
 --// Credits \\--
---[[ Ezpi#0474 - Creator of this script ]]--
+--[[ corb#6969 - Creator of this script ]]--
 
 --// Services \\--
 local CoreGui = game:GetService("CoreGui")
