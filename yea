@@ -24,7 +24,7 @@ end
 
 --// UI Library \\--
 local Library = loadstring(game:HttpGetAsync('https://pastebin.com/raw/edJT9EGX'))()
-local Window = Library:CreateWindow("AutoClicker by Ezpi")
+local Window = Library:CreateWindow("AutoClicker by Corb")
 Enabled_1 = Window:AddColor({
     text = 'Status:',
     flag = "Ezpi_1",
